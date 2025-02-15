@@ -8,3 +8,10 @@ integrated, enabling efficient management and updates of player data. By streaml
 process and providing advanced management tools, the platform caters to both casual players and
 dedicated managers, enhancing the overall gaming experience with a focus on accessibility,
 functionality, and ease of use.
+
+
+Front End (Presentation Layer): React.js
+
+Back End (Application Layer): Spring Framework(Spring Boot)
+
+Database (Data Layer): PostgreSQL JDBC driver(PostgreSQL)
